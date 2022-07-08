@@ -7,3 +7,9 @@
 Next.js
 TypeScript
 TailwindCSS
+
+# Markdown 解析パッケージ
+
+remark
+remark-html
+gray-matter
